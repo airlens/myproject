@@ -4,7 +4,7 @@ public class Sample02 {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		System.out.println("Beautiful World!!");
+		System.out.println("Beautiful World!");
 
 	}
 }
