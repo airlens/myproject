@@ -1,4 +1,4 @@
-package jp.co.a.study.main;
+ackage jp.co.a.study.main;
 
 public class Sample02 {
 
